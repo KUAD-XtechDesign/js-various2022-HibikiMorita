@@ -34,7 +34,7 @@ header{
   color: rgb(255, 255, 255);
   top: 100px;
   font-size: 100px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Arial Black', sans-serif;
   line-height: 1;
   left: 20px;
   z-index: 100;
@@ -91,6 +91,10 @@ img{
   height: 3px;
   background: linear-gradient(to right, rgb(123, 229, 35),rgb(255, 72, 0));
 }
+h1{
+  font-family:'Times New Roman', Times, serif;
+}
+
 
 
 html,* {
